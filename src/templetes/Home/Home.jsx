@@ -1,6 +1,6 @@
 import './Home.css';
 import NavBar from "../../componentes/NavBar/NavBar";
-import Painel from "../../componentes/Painel/Painel";
+import Painel from "../../componentes/PainelControle/PainelCotrole";
 import ContextoHome from "../../contexts/ContextoGlobal";
 
 function Home() {

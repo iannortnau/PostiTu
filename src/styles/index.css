@@ -7,8 +7,16 @@
 }
 
 .imgPerfil{
-  width: 90px!important;
+  width: 72px!important;
+  height: 72px!important;
   margin:2px;
 }
 
-.botao-menu{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.botao-menu{
+  -webkit-touch-callout:none;
+  -webkit-user-select:none;
+  -khtml-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none
+}

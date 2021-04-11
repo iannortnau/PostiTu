@@ -1,5 +1,5 @@
 export const contextoGlobal = {
-    logado: true,
+    logado: false,
     nome: 'Não está logado',
-    imgPerfil: 'perfil_qom4un',
-};
+    imgPerfil: 'PostiTu/perfil_qnyd0g.svg'
+}
